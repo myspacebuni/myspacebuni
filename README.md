@@ -12,7 +12,7 @@
 <details>
   <summary>♡ about me</summary>
   <br>
-  im 18, i like quiet spaces and i read alot. i like making forsaken skins im not in the fandom like that tho, i may be nv time to time but other than that i talk alot..maybe too much🍕 ALSO my humor is really dark so please tell me if i make you uncomfy with ym jokes, because my jokes ARE offensive. I have 2 partners currently! vin and cooper, sometimes they share a ponytown account but ill put their github @'s on the bottom!
+  im 18, i like quiet spaces and i read alot. i like making forsaken skins im not in the fandom like that tho, i may be nv time to time but other than that i talk alot..maybe too much🍕 ALSO my humor is really dark so please tell me if i make you uncomfy with my jokes, because my jokes ARE offensive. I have 2 partners currently! vin and cooper, sometimes they share a ponytown account but ill put their github @'s on the bottom!
 </details>
 
 <details>
@@ -68,8 +68,7 @@
   <!-- LINKS -->
   <p align="center">
     <a href="YOUR-ATABOOK">♡ atabook</a> · 
-    <a href="YOUR-DISCORD">✧ discord</a> · 
-    <a href="YOUR-CARRD">⤹ carrd</a>
+
   </p>
 
   <br>
