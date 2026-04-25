@@ -67,9 +67,8 @@
 
   <!-- LINKS -->
   <p align="center">
-    <a href="YOUR-ATABOOK">♡ atabook</a> · 
-
-  </p>
+    <a href=https://deathwjsh.atabook.org>♡ atabook</a> · 
+ 
 
   <br>
 
