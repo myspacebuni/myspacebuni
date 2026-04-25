@@ -82,6 +82,6 @@
   <!-- FOOTER -->
  <p align="center"> <img width="540" height="104" alt="image" src="https://github.com/user-attachments/assets/130fea41-785e-4c42-ab3a-73242994f160" /> <img width="540" height="6" alt="image" src="https://github.com/user-attachments/assets/26b18758-e202-41f3-9a6f-371020535c4c" />
 
-
+My partners :3 @lovinglies and @
 <p align="center"
 </p> 12:14 AM[???] thinks: i love anal stage!
